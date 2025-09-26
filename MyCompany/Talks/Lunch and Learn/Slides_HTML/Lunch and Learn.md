@@ -34,14 +34,14 @@ Morgane Deweerdt & Olivier Tohane Nunez - BottomUpGames
 <div style="text-align:center; display:flex; flex-direction:column; align-items:center;">
   <h3 style="font-size:32px; margin:0;">Olivier</h3>
 <span style="font-size:18px;color:#d68b4c">Developer &amp; animator</span>
-  ![[MyCompany/Presentation/oli.jpg|200]]
+  ![[oli.jpg|200]]!
 </div>
 
 <!-- Column 2 -->
 <div style="text-align:center; display:flex; flex-direction:column; align-items:center;">
   <h3 style="font-size:32px; margin:0;">Morgane</h3>
   <span style="font-size:18px;color:#d68b4c">3D artist &amp; level designer</span>
-  ![[MyCompany/Presentation/mo.jpg|200]]
+  ![[mo.jpg|200]]
 </div>
 
 </div>
@@ -96,7 +96,7 @@ Morgane Deweerdt & Olivier Tohane Nunez - BottomUpGames
 
 <!-- small icon:-->
 <div style="margin-top:auto; display:flex; justify-content:center; opacity:0.85;">
-  ![[MyCompany/Presentation/BU.jpg|100]]
+  ![[BU.jpg|100]]
 </div>
 </div>
 
@@ -114,7 +114,7 @@ Morgane Deweerdt & Olivier Tohane Nunez - BottomUpGames
 </div>
 
 <div style="margin-top:auto; display:flex; justify-content:center; opacity:0.85;">
-  ![[MyCompany/Presentation/Coop.png|100]]
+  ![[Coop.png|100]]
 </div>
   </div>
 
@@ -133,7 +133,7 @@ Morgane Deweerdt & Olivier Tohane Nunez - BottomUpGames
 </div>
 
 <div style="margin-top:auto; display:flex; justify-content:center; opacity:0.85;">
-  ![[MyCompany/Presentation/Est.jpg|100]]
+  ![[Est.jpg|100]]
 </div>
   </div>
 </div>
@@ -458,7 +458,7 @@ Morgane Deweerdt & Olivier Tohane Nunez - BottomUpGames
 
 <!-- Zen image  -->
 <div style="
-  position:absolute; top:4%; left:-5%;  width:110%; height:92%; background:url('[[MyCompany/Presentation/Interlude.png]]') center/cover no-repeat;  opacity:0.4;
+  position:absolute; top:4%; left:-5%;  width:110%; height:92%; background:url('[[Interlude.png]]') center/cover no-repeat;  opacity:0.4;
   border-radius:15px;  z-index:1;">
 </div>
 

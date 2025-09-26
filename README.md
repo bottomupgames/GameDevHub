@@ -8,7 +8,7 @@ This was made for a **Lunch & Learn** from [games.brussels](https://games.brusse
 
 1. Download Obsidian at https://obsidian.md/download and instal it
 2. Download and extract this repository as a ZIP.
-3. In Obsidian, "Open Vault" → select `GameDevHubVault`.
+3. In Obsidian, "Open Vault" → select `GameDevHub`.
 4. (Optional) Enable community plugins for full functionality. List below
 
 #### Community Plugins
@@ -52,7 +52,7 @@ Exemples :
 ### 2. Weekly
 The **Weekly** note gives every team member a quick overview of all active Games, Loops, and Solutions. It highlights schedule overruns with graphs and helps share knowledge, avoiding endless meetings.
 
-Example: [2025-W39](2025-W39.md)
+Example: [[2025-W39]]
 
 ### 3. GDD
 An **empty `GDD` folder** under `MyRacingGame` is ready for you to use.

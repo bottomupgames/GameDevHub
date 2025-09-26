@@ -1,0 +1,28 @@
+filters:
+  and:
+    - "!loop.isEmpty()"
+formulas:
+  Result: ""
+views:
+  - type: table
+    name: View
+    order:
+      - file.name
+      - authors
+      - categories
+      - started
+      - ended
+    columnSize:
+      file.name: 449
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.tags.containsAny("task", "proto", "concept")
+    order:
+      - file.name
+      - categories
+    sort:
+      - property: started
+        direction: ASC
+    image: note.cover

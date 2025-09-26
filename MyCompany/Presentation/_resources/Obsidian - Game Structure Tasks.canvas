@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"1ee7ad7a56f37328","type":"group","x":-1120,"y":40,"width":1720,"height":1080,"label":"Solutions"},
+		{"id":"1ef5e7c905bf92dd","type":"text","text":"# Loop\n\n> - Key Problem\n> - Planning\n> - Risks\n> - Solutions\n\nRespond to a major problem while minimizing risks.","x":-531,"y":-400,"width":542,"height":388},
+		{"id":"5e419d2f572f2da9","type":"text","text":"# Game\n\n> - Home Page\n>     - Link to Wiki\n>     - Link to Documentation\n>     - Links to Arcs\n> - Overall production planning  \n\n# Current phase\n\n> - Planning\n\nPre-production/Production/Shipping/...","x":-531,"y":-980,"width":542,"height":500},
+		{"id":"38adabc5f1f71ba8","type":"text","text":"","x":-1011,"y":120,"width":400,"height":820},
+		{"id":"0025d63d68ec3438","type":"text","text":"# Prototype\n\n> - Questions\n> - Planning\n> - ...\n> - Results\n\nMust answer a question\n######  The Question:\n- Forcing yourself to ask a short question helps you understand the real reason for the prototype.\n###### Checkboxes:\n- Helps you understand that questions must be formulated to have a Boolean answer: YES || NO ","x":-982,"y":160,"width":400,"height":820},
+		{"id":"b999b800e03b2a59","type":"text","text":"","x":51,"y":120,"width":400,"height":340},
+		{"id":"0957e604a71c3f26","type":"text","text":"# Concept\nPremises\nDrawings\nSmall ideas\nReferences\n\nServes as a reference for other solutions\n\nShort and factual","x":80,"y":160,"width":400,"height":340},
+		{"id":"efb478ea68a79a4d","type":"text","text":"","x":-491,"y":120,"width":420,"height":820},
+		{"id":"05c0d70795283b41","type":"text","text":"# Task\n\n> - Objectives\n> - Planning\n> - ...\n> - Results\n\nMust accomplish a specific objective. \nCan contribute to the creation of documentation. \n\n###### The main objective:\n - Forcing yourself to find a single main objective helps to segment the task and thus highlight the different steps for planning.\n###### Invitation to iteration:\n- A task is never really finished. The *improvements and ideas* box is there to help accept the end by already leaving a trail for future iterations. ","x":-430,"y":160,"width":420,"height":848}
+	],
+	"edges":[
+		{"id":"1c09f80c8b5467af","fromNode":"1ef5e7c905bf92dd","fromSide":"top","toNode":"5e419d2f572f2da9","toSide":"bottom"},
+		{"id":"8b7bbaa079752d52","fromNode":"1ee7ad7a56f37328","fromSide":"top","toNode":"1ef5e7c905bf92dd","toSide":"bottom"}
+	]
+}

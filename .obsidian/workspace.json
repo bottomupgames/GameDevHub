@@ -1,0 +1,342 @@
+{
+  "main": {
+    "id": "aa9bddd8a8096723",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f5cf31222ac4f0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aba3b637e335e4fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55ceac8a67cf5d72",
+    "type": "split",
+    "children": [
+      {
+        "id": "64469778688b6879",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c4cdb9c6cd0a5e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7554f8ac81d01835",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e3b17ec1ec1dfe82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 409.5
+  },
+  "right": {
+    "id": "448656393bc4d53b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7dafce5b2a64935",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c78d53e1d86b14ea",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "README.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#game  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "tag:#loop  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 15402414
+                      }
+                    },
+                    {
+                      "query": "tag:#concept  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13948508
+                      }
+                    },
+                    {
+                      "query": "tag:#task  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084188
+                      }
+                    },
+                    {
+                      "query": "tag:#proto",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4311238
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 0.993229166666667,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3628873693012121,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of README"
+            }
+          },
+          {
+            "id": "e4d4937c1bd1d9d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MyCompany/Games/MyGame/RFCorp/RFCorp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for RFCorp"
+            }
+          },
+          {
+            "id": "a93ddea3a287a583",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MyCompany/Games/MyGame/RFCorp/RFCorp.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from RFCorp"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f1126bf74890668c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e77f8a788095e03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "37084d9d651ccda8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "70423430048cd7ca",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1b5a0cc88c1f1268",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "408d2713ebc8c367",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "aba3b637e335e4fe",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "MyCompany/Games/MyRacingGame/My Racing Game Results.canvas",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Flying Dinos/Solutions/Concept - Animation - Dinosaur Action List/Concept - Animation - Dinosaur Action List.md",
+    "GDH Structure Exemple.canvas",
+    "README.md",
+    "_system/Calendar/Weekly/2025-W39.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Task - Transition Mechanic between Air and Water/_resources/d3daa46c85e_2.jpg",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Task - Transition Mechanic between Air and Water/_resources",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Task - Transition Mechanic between Air and Water/Task - Transition Mechanic between Air and Water.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Task - Transition Mechanic between Air and Water",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Task - Powerup - Extended Flying Time/_resources/aa46c85e_3.jpg",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Task - Powerup - Extended Flying Time/_resources",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Task - Powerup - Extended Flying Time/Task - Powerup - Extended Flying Time.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Task - Powerup - Extended Flying Time",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Task - Pawn - Submarine/_resources/proto_racing_sub_in_motion_c339b_1.png",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Task - Pawn - Submarine/_resources",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Task - Pawn - Submarine/Task - Pawn - Submarine.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Task - Pawn - Submarine",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Concept - Submarine - Hyper Realistic/_resources/realistic_military_3f7c97_2.jpg",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Concept - Submarine - Hyper Realistic/_resources/realistic_military_3f7c97_3.jpg",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Concept - Submarine - Living Creature 001/_resources/sketches_fantasy_racingsub_0881b31_0.jpg",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Concept - Submarine - Hyper Realistic/_resources/realistic_military_493f7c97_0.jpg",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Concept - Submarine - Hyper Realistic/_resources/drawn_futuristic_racetrack_b51aa7_3.jpg",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Proto - Network - Submarine Position/_resources/a026729a0e9_2.jpg",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Concept - Submarine - Living Creature 002/_resources/cartoon_sub_plesiosa_62924a_1.jpg",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Concept - Submarine - Hyper Realistic/_resources",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Proto - Network - Submarine Position/_resources",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Concept - Submarine - Hyper Realistic/Concept - Submarine - Hyper Realistic.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Proto - Network - Submarine Position/Proto - Network - Submarine Position.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Concept - Submarine - Living Creature 002/_resources",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Concept - Submarine - Living Creature 002/Concept - Submarine - Living Creature 002.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Concept - Submarine - Living Creature 001/Concept - Submarine - Living Creature 001.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Concept - Submarine - Living Creature/Concept - Submarine - Living Creature.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Solutions/Concept - Submarine - Cartoony/Concept - Submarine - Cartoony.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Loop - Racing Subs Game.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game/Loop - Racing Subs Game Results.canvas",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - New Racing Game/Solutions/Proto - Gameplay - Missile Tracking 001 - Missile Cooldown/Proto - Gameplay - Missile Tracking 001 - Missile Cooldown.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - New Racing Game/Solutions/Task - Color - Palette - Underwater/Task - Color - Palette - Underwater.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - New Racing Game/Solutions/Task - Benchmarking - Wavy Refraction/Task - Benchmarking - Wavy Refraction.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - New Racing Game/Solutions/Task - Shader - Water Distortion/Task - Shader - Water Distortion.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - New Racing Game/Solutions/Task - RaceTrack - Layout/Task - RaceTrack - Layout.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - New Racing Game/Solutions/Proto - Gameplay - Underwater/Proto - Gameplay - Underwater.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - New Racing Game/Solutions/Proto - Gameplay - Missile Tracking/Proto - Gameplay - Missile Tracking.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - New Racing Game/Solutions/Concept - Submarine - fantasy style/Concept - Submarine - fantasy style.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - New Racing Game/Solutions/Concept - Color - Glowing Path/Concept - Color - Glowing Path.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - New Racing Game/Loop - New Racing Game.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - New Racing Game/Loop - New Racing Game Results.canvas",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Flying Dinos/Solutions/Task - Powerups/Task - Powerups.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Flying Dinos/Solutions/Task - Networking - Apply/Task - Networking - Apply.md",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Flying Dinos/Loop - Flying Dinos Results.canvas",
+    "MyCompany/Presentation/_resources/Obsidian - Game Structure Tasks.canvas",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Flying Dinos/Solutions.canvas",
+    "MyCompany/Games/MyRacingGame/MyRacingGame Results.canvas",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - Flying Dinos/Solutions/Task - Dino - Create anim blueprint/_resources/AnimationBlueprint Logic.canvas",
+    "MyCompany/Games/MyRacingGame/Loops/Loop - New Racing Game/Solutions.canvas"
+  ]
+}

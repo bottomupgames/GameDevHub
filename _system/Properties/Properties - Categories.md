@@ -1,0 +1,23 @@
+---
+categories:
+  - Character Art
+  - Environment Art
+  - Gameplay Object Art
+  - Visual Effects
+  - Lighting
+  - Game Design
+  - Level Design
+  - Narrative Design
+  - Sound Design
+  - UI Design
+  - UX Design
+  - Core Development
+  - Engine Development
+  - Pipelines Development
+  - Optimization and Debugging
+  - Project Management
+  - Communication
+  - QA and Playtesting
+  - Animation
+  - Vehicle Art
+---

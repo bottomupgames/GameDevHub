@@ -1,0 +1,18 @@
+{
+  "templater-obsidian:create-Templates/Templater/Template - Add Gallery.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ]
+}

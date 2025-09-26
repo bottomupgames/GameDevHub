@@ -1,0 +1,172 @@
+{
+	"nodes":[
+		{
+			"id":"group-62694982-4154",
+			"type":"group",
+			"file":null,
+			"text":null,
+			"x":80,
+			"y":-240,
+			"width":1900,
+			"height":1060,
+			"color":"#FCA5E1",
+			"label":"Environment Art"
+		},
+		{
+			"id":"group-62694982-9890",
+			"type":"group",
+			"file":null,
+			"text":null,
+			"x":0,
+			"y":2440,
+			"width":1900,
+			"height":1060,
+			"color":"#FCD34D",
+			"label":"Core Development"
+		},
+		{
+			"id":"group-62694982-1155",
+			"type":"group",
+			"file":null,
+			"text":null,
+			"x":0,
+			"y":1220,
+			"width":660,
+			"height":1060,
+			"color":"#C7D2FE",
+			"label":"Gameplay Object Art"
+		},
+		{
+			"id":"group-62694982-4172",
+			"type":"group",
+			"file":null,
+			"text":null,
+			"x":0,
+			"y":3660,
+			"width":660,
+			"height":1060,
+			"color":"#F9A8D4",
+			"label":"Optimization and Debugging"
+		},
+		{
+			"id":"group-62694982-1895",
+			"type":"group",
+			"file":null,
+			"text":null,
+			"x":0,
+			"y":4880,
+			"width":660,
+			"height":1060,
+			"color":"#93C5FD",
+			"label":"Level Design"
+		},
+		{
+			"id":"node-62694982-7375",
+			"type":"text",
+			"file":null,
+			"text":"# [[Concept - Submarine - fantasy style]]\n\n![[Concept - Submarine - fantasy style#Results]]",
+			"label":null,
+			"x":60,
+			"y":1280,
+			"width":540,
+			"height":940
+		},
+		{
+			"id":"node-62694982-9527",
+			"type":"text",
+			"file":null,
+			"text":"# [[Proto - Gameplay - Underwater]]\n\n![[Proto - Gameplay - Underwater#Results]]",
+			"label":null,
+			"x":60,
+			"y":2500,
+			"width":540,
+			"height":940
+		},
+		{
+			"id":"node-62694982-1225",
+			"type":"text",
+			"file":null,
+			"text":"# [[Proto - Gameplay - Missile Tracking]]\n\n![[Proto - Gameplay - Missile Tracking#Results]]",
+			"label":null,
+			"x":680,
+			"y":2500,
+			"width":540,
+			"height":940
+		},
+		{
+			"id":"node-62694982-6537",
+			"type":"text",
+			"file":null,
+			"text":"# [[Proto - Gameplay - Missile Tracking 001 - Missile Cooldown]]\n\n![[Proto - Gameplay - Missile Tracking 001 - Missile Cooldown#Results]]",
+			"label":null,
+			"x":1300,
+			"y":2500,
+			"width":540,
+			"height":940
+		},
+		{
+			"id":"node-62694982-4215",
+			"type":"text",
+			"file":null,
+			"text":"# [[Task - Benchmarking - Wavy Refraction]]\n\n![[Task - Benchmarking - Wavy Refraction#Results]]",
+			"label":null,
+			"x":60,
+			"y":3720,
+			"width":540,
+			"height":940
+		},
+		{
+			"id":"node-62694982-3917",
+			"type":"text",
+			"file":null,
+			"text":"# [[Task - RaceTrack - Layout]]\n\n![[Task - RaceTrack - Layout#Results]]",
+			"label":null,
+			"x":60,
+			"y":4940,
+			"width":540,
+			"height":940
+		},
+		{
+			"id":"node-62694982-2962",
+			"type":"text",
+			"file":null,
+			"text":"# [[Concept - Color - Glowing Path]]\n\n![[Concept - Color - Glowing Path#Results]]",
+			"label":null,
+			"x":140,
+			"y":-180,
+			"width":540,
+			"height":940
+		},
+		{
+			"id":"node-62694982-5094",
+			"type":"text",
+			"file":null,
+			"text":"# [[Task - Shader - Water Distortion]]\n\n![[Task - Shader - Water Distortion#Results]]",
+			"label":null,
+			"x":1380,
+			"y":-180,
+			"width":540,
+			"height":940
+		},
+		{
+			"id":"node-62694982-3143",
+			"type":"text",
+			"file":null,
+			"text":"# [[Task - Color - Palette - Underwater]]\n\n![[Task - Color - Palette - Underwater#Result]]",
+			"label":null,
+			"x":1000,
+			"y":810,
+			"width":540,
+			"height":940
+		}
+	],
+	"edges":[
+		{"id":"edge-62694982-2899","fromNode":"node-62694982-2962","fromSide":"right","toNode":"node-62694982-3143","toSide":"left"},
+		{"id":"edge-62694982-8738","fromNode":"node-62694982-7375","fromSide":"right","toNode":"node-62694982-3143","toSide":"left"},
+		{"id":"edge-62694982-4955","fromNode":"node-62694982-1225","fromSide":"right","toNode":"node-62694982-6537","toSide":"left"},
+		{"id":"edge-62694982-9227","fromNode":"node-62694982-6537","fromSide":"right","toNode":"node-62694982-1225","toSide":"left"},
+		{"id":"edge-62694982-9740","fromNode":"node-62694982-4215","fromSide":"right","toNode":"node-62694982-5094","toSide":"left"},
+		{"id":"edge-62694982-1183","fromNode":"node-62694982-5094","fromSide":"right","toNode":"node-62694982-4215","toSide":"left"}
+	],
+	"version":1
+}

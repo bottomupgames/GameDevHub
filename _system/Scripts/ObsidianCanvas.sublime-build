@@ -1,0 +1,23 @@
+{
+  "cmd": [
+    "C:/Users/<USERNAME>/AppData/Local/Programs/Python/Python313/python.exe",
+    "YOUR/VAULT/PATH/MyGameDevHub/_system/Scripts/obsidian_canvas_builder.py",
+
+    //"--vault", "YOUR/VAULT/PATH/MyGameDevHub/MyCompany/Games/MyRacingGame",
+    //"--canvas", "My Racing Game Results.canvas",
+
+    //"--vault", "YOUR/VAULT/PATH/MyGameDevHub/MyCompany/Games/MyRacingGame/Loops/Loop - New Racing Game",
+    //"--canvas", "Loop - New Racing Game Results.canvas",
+
+    //"--vault", "YOUR/VAULT/PATH/MyGameDevHub/MyCompany/Games/MyRacingGame/Loops/Loop - Racing Subs Game",
+    //"--canvas", "Loop - Racing Subs Game Results.canvas",
+
+    "--vault", "YOUR/VAULT/PATH/MyGameDevHub/MyCompany/Games/MyRacingGame/Loops/Loop - Flying Dinos",
+    "--canvas", "Loop - Flying Dinos Results.canvas",
+
+    //"include-categories", "Gameplay Object Art,Characters"
+
+
+  ],
+  "working_dir": "D:/BUG/Obsidian/Vault/MyGameDevHub"
+}

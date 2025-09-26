@@ -1,31 +1,48 @@
 # GameDevHub
-You will find here our **Obsidian Vault** with our solution to help a team (1-10 members) in the context of Video Game Development.
 
-This was made for a **Lunch & Learn** from [games.brussels](https://games.brussels/).
+You will find here our **Obsidian Vault** template designed for small teams (1–10 members)  in the context of Video Game Development. It helps you stay organized with **project management**, **documentation** and **team communication** all in one place. 
 
-# What is it ?
-This Obsidian Vault is a sample of how we made our own **Game Dev Hub** at **BottomUpGames** based on our tree pillars (Bottom up, Shared experience, Aesthetic) and the book of Jesse Schell "The Art of Game Design". 
+This was made for a **Lunch & Learn** from [games.brussels](https://games.brussels/), built with love at **BottomUpGames**, inspired by Jesse Schell’s _The Art of Game Design_.
 
-It is designed to enabling us to adapt to the fast-paced demands of video game production through :
-- project management
-- documentation
-- communication with team members
+# How to setup ?
+
+1. Download Obsidian at https://obsidian.md/download and instal it
+2. Download and extract this repository as a ZIP.
+3. In Obsidian, "Open Vault" → select `GameDevHubVault`.
+4. (Optional) Enable community plugins for full functionality. List below
+
+#### Community Plugins
+- [Advanced Slides](https://github.com/MSzturc/obsidian-advanced-slides) — create presentation slides from your notes  
+- [Buttons](https://github.com/shabegom/buttons) — add interactive buttons  
+- [Calendar](https://github.com/liamcain/obsidian-calendar-plugin) — simple calendar integration  
+- [Dataview](https://github.com/blacksmithgu/obsidian-dataview) — query and visualize notes  
+- [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) — hand-drawn diagrams  
+- [Image Gallery](https://github.com/lucaorio/obsidian-image-gallery) — organize screenshots/artwork  
+- [Kanban](https://github.com/mgmeyers/obsidian-kanban) — manage tasks visually  
+- [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) — customize appearance  
+- [Templater](https://github.com/SilentVoid13/Templater) — automate notes with templates 
 
 
 # Where to start ?
-First of all **Discover Obsidian by yourself**. Obsidian is a free software that allow a wide range of taking notes. We really invite you to create your own Vault and understand by yourself how it works.
+
+First of all, **discover Obsidian by yourself**.  
+Obsidian is a free note-taking software with powerful features.  
+We really encourage you to create your own Vault and get familiar with how it works.
 
 - [Obsidian Website](https://help.obsidian.md/)
 - [Youtube Tutorials](https://youtu.be/OUrOfIqvGS4?si=PHphg4gXKw_BQOXi)
+
+---
 
 Then **Look into this Vault** :
 
 ![[GDH Structure Exemple.canvas]]
 
 ### 1. Game Exemple
-We've made a fake game ([[My Racing Game]]) as exemple to show how it works with some content. It's based on the exemple found in the *chapiter 8* of *The Art of Game Design*. It composed by some templates : Game > Loops > Solutions .
+We’ve included a fake game, [[My Racing Game]], to show how it works with some content. It's based on the exemple found in the *chapiter 8* of Jesse Schell’s *The Art of Game Design*.
+It’s composed of templates (Game → Loops → Solutions).
 
-Some Links :
+Exemples :
 - The Game : [[My Racing Game]]
 - A Loop : [[Loop - Flying Dinos]]
 - A Concept : [[Concept - Submarine - Living Creature 002]]
@@ -33,42 +50,35 @@ Some Links :
 - A Task : [[Task - Color - Palette - Underwater]]
 
 ### 2. Weekly
-A Weekly is a note to help each user to have a quick look and links to every Games, Loops and Solutions that are currently active. It highlight the schedule overrun through the graphs and help with the sharing of knowledge bypassing the useless meetings.
+The **Weekly** note gives every team member a quick overview of all active Games, Loops, and Solutions. It highlights schedule overruns with graphs and helps share knowledge, avoiding endless meetings.
 
-Open an existing weekly : [[2025-W39]]
-
+Example: [2025-W39](2025-W39.md)
 
 ### 3. GDD
-An **empty folder** for a `GDD` under `MyRacingGame` is ready.
+An **empty `GDD` folder** under `MyRacingGame` is ready for you to use.
 
-Find Your way to make it by :
-- Creating your own GDD Templates, Buttons, ... (exemples in `/_system/Templates/...`)
-- Make it evolving with your tasks by creating a dedicated tag #GDD for exemple.
-- Make your own notes or even canvas through :
-	- obsidian plugin
-	- Stand alone scripts (exemple in `/_system/Scripts`)
-	- AI assist
-	- ...
-
-
+You can make it yours by:
+- Creating your own GDD templates and buttons (see `/_system/Templates/...`)  
+- Evolving it with your tasks by using tags (e.g. `#GDD`)
+- Adding your own notes or visual canvases through:
+  - Custom plugins
+  - Standalone scripts (examples in `/_system/Scripts`)
+  - AI assistance
+  - ...
 
 # Make your own GDH
-We really invite you to create your own Game Dev Hub from scratch.
-Here are some additional tips/advices :
 
-- Explore the Obsidian possibilities:
-	- Core and Community Plugins.
-	- Mermaid
-	- ...
-- Find and understand your company pillars 
-- Bring your own inspiration
+We strongly encourage you to **create your own Game Dev Hub from scratch**.
+
+Some tips:
+- Explore Obsidian’s possibilities:
+  - Core & Community Plugins
+  - Mermaid diagrams
+  - …
+- Define and embrace your company’s pillars
+- Bring in your own inspirations
 - Listen to your team
-- Don't assume it finished
-
-
+- Don’t assume it’s ever “finished” — keep evolving it!
 
 ---
-
-
-Oliver and Morgane
-https://bottomupgames.com/
+© 2025 BottomUpGames — [Website](https://bottomupgames.com)
